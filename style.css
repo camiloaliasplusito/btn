@@ -1,0 +1,81 @@
+
+
+.up{
+    height:163;
+    width:1468;
+    background:url("http://127.0.0.1:5500/fondo%20test.png");
+    background-repeat:no-repeat;
+    margin-top:-224;
+    background-size:cover;
+}
+
+.media{
+    height:569;
+    width:1468;
+    background-color:black;
+
+}
+
+.lateraliz{
+    width:100;
+    height:1000;
+    color:red;
+    background-color:red;
+    
+}
+
+.imagen{
+    margin-left:25px;
+}
+
+.rayahorizonal{
+    width:1468;
+    height:3;
+    background-color:rgba(255, 179, 2, 0.842);
+    margin-top:-33;
+}
+
+kbd{
+    color:white;
+}
+
+.media{
+    background:transparent;
+    background:url("http://127.0.0.1:5500/fondo%20test.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:1468;
+    height:583  ;
+}
+
+.media img{
+    margin-left:145px;
+    
+}
+ 
+body{background-color:rgb(0, 0, 0);}
+
+a{
+    font-family:'Courier New', Courier, monospace;
+    font-size:36;
+    text-decoration:none;
+    background-color:yellow;
+    border-radius:10%;
+    
+
+    
+}
+
+
+.menu{
+    margin-top:80;  
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
